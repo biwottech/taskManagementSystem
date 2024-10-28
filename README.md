@@ -49,12 +49,6 @@ DB_PASSWORD=your_db_password
 
 Replace `your_db_user` and `your_db_password` with your PostgreSQL credentials.
 
-### Generate Application Key
-Generate an application key:
-```bash
-php artisan key:generate
-```
-
 ### Run Database Migrations
 Run the database migrations to create the `tasks` table:
 ```bash
