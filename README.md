@@ -21,7 +21,7 @@ This is a RESTful API built with Lumen that allows users to manage tasks. It sup
 ### Clone the Repository
 Clone the repository using Git:
 ```bash
-git clone https://github.com/your-username/lumen-task-api.git
+git clone https://github.com/biwottech/taskManagementSystem
 cd lumen-task-api
 ```
 
